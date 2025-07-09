@@ -23,3 +23,10 @@
 + Extract all files
 + Run the Loader
 ```
+## 4. Unique Legal Framework
+
+## ⚖️ Ethical Usage Agreement
+> **Important**: This toolkit is licensed under the **Ethical Hacking Agreement (EHA-1.0)**:
+> - ❗ Strictly for educational purposes
+> - ⛔ Never target live servers
+> - 🔒 Requires [security bond](LICENSE.md#security-bond) for activation
